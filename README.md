@@ -1,25 +1,3 @@
-<table>
-<tr>
-<td width="280" valign="top">
-
-<img src="./wwd.jpg" width="180" style="border-radius: 50%;" alt="avatar" />
-
-### 王闻达 / Wenda Wang
-
-AI for Science
-
-📍 Beijing, China
-
-🏛 [Renmin University of China](https://www.ruc.edu.cn/)
-
-✉️ [Email](wangwenda87@ruc.edu.cn)
-
-🎓 [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-2469-8522)
-
-🐙 [GitHub](https://github.com/WangWenda87)
-
-</td>
-<td valign="top">
 
 ## About
 
