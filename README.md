@@ -2,7 +2,7 @@
 <tr>
 <td width="280" valign="top">
 
-<img src="https://via.placeholder.com/180" width="180" style="border-radius: 50%;" alt="avatar" />
+<img src="./wwd.jpg" width="180" style="border-radius: 50%;" alt="avatar" />
 
 ### 王闻达 / Wenda Wang
 
