@@ -50,17 +50,6 @@ His research interests lie in **AI for Science**, with a special focus on **prot
 
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WangWenda87&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangWenda87&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WangWenda87&label=Profile%20Views&color=grey&style=flat-square" alt="Profile Views" />
 </p>
